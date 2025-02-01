@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: ReadexPro;
+    src: url('font/static/ReadexPro-Regular.ttf');
+  }
+  
+  main {
+    font-family: ReadexPro , 'Segoe UI';
+  }
+  
+  
